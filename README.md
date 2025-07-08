@@ -12,32 +12,6 @@
 - **ETL & ML**: AWS Glue, SageMaker, Redshift  
 - **기타**: Ubuntu, Apache2, Git, Proxy 설정
 
-### ☁️ Cloud / DevOps / Infra
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
-</p>
-
-### 🧪 Monitoring & Tools
-<p>
-  <img src="https://img.shields.io/badge/JMeter-FA0707?style=for-the-badge&logo=apachejmeter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CloudWatch-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-</p>
-
-### 🗃️ Data / DB / ETL
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
-  <img src="https://img.shields.io/badge/AWS_Glue-232F3E?style=flat&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Athena-232F3E?style=flat&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Quicksight-0052CC?style=flat&logo=amazonaws&logoColor=white"/>
-</p>
-
----
-
 
 ---
 
